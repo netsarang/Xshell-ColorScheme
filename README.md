@@ -1,5 +1,6 @@
 # Xshell-ColorScheme
-Xshell Color Scheme Set.
+Xshell Color Scheme Set converted from terminal.sexy.
+Please edit any color schemes with poor visibility and commit the scheme to share!
 
 # License
 The MIT License (MIT)

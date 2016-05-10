@@ -1,0 +1,23 @@
+[Rooster - SOS]
+text=78796f
+text(bold)=78796f
+background=373b43
+black=373b43
+black(bold)=373b43
+red=fdcd39
+red(bold)=fdcd39
+green=fbfd59
+green(bold)=fbfd59
+yellow=deac40
+yellow(bold)=deac40
+blue=afb171
+blue(bold)=afb171
+magenta=b387e7
+magenta(bold)=b387e7
+cyan=63e860
+cyan(bold)=63e860
+white=efdecb
+white(bold)=efdecb
+[Names]
+name0=Rooster - SOS
+count=1

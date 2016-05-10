@@ -1,0 +1,23 @@
+[dkeg - citystreets]
+text=d3d3d3
+text(bold)=d3d3d3
+background=000000
+black=201e24
+black(bold)=837c78
+red=2d2b30
+red(bold)=89827d
+green=3f3d40
+green(bold)=a7a099
+yellow=413c3e
+yellow(bold)=c2bec1
+blue=423e41
+blue(bold)=c3bcb2
+magenta=4e4a4b
+magenta(bold)=cbc5ba
+cyan=6e6765
+cyan(bold)=e3ddd2
+white=837e81
+white(bold)=efe8dc
+[Names]
+name0=dkeg - citystreets
+count=1

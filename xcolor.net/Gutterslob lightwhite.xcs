@@ -1,0 +1,23 @@
+[Gutterslob lightwhite]
+text=ffffff
+text(bold)=ffffff
+background=000000
+black=808080
+black(bold)=9c9c9c
+red=c48980
+red(bold)=a15048
+green=8da862
+green(bold)=4b7508
+yellow=b29b7a
+yellow(bold)=916f27
+blue=809bc4
+blue(bold)=567cb0
+magenta=aa88b2
+magenta(bold)=964e8f
+cyan=82adad
+cyan(bold)=4e848a
+white=bfbfbf
+white(bold)=9c9c9c
+[Names]
+name0=Gutterslob lightwhite
+count=1

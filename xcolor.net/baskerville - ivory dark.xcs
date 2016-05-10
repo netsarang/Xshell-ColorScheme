@@ -1,0 +1,23 @@
+[baskerville - ivory dark]
+text=a4a6ab
+text(bold)=a4a6ab
+background=2d2c28
+black=5b5955
+black(bold)=707277
+red=c4756e
+red(bold)=f6a299
+green=559a6a
+green(bold)=82c896
+yellow=9b8a4b
+yellow(bold)=cab775
+blue=6a8dca
+blue(bold)=98bbfb
+magenta=b577ac
+magenta(bold)=e5a4db
+cyan=019baa
+cyan(bold)=53cad9
+white=dbdde2
+white(bold)=f7f9ff
+[Names]
+name0=baskerville - ivory dark
+count=1

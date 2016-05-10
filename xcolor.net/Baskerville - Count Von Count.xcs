@@ -1,0 +1,23 @@
+[Baskerville - Count Von Count]
+text=919191
+text(bold)=919191
+background=000000
+black=303030
+black(bold)=5e5e5e
+red=c10023
+red(bold)=ff8781
+green=a83334
+green(bold)=ffa095
+yellow=b51d2c
+yellow(bold)=ff948b
+blue=8c4b46
+blue(bold)=feb2aa
+magenta=7d534f
+magenta(bold)=ebbbb5
+cyan=9a413d
+cyan(bold)=ffaaa0
+white=c6c6c6
+white(bold)=ffffff
+[Names]
+name0=Baskerville - Count Von Count
+count=1

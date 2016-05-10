@@ -1,0 +1,23 @@
+[baskerville - FarSide]
+text=919191
+text(bold)=919191
+background=000000
+black=303030
+black(bold)=5e5e5e
+red=a43261
+red(bold)=ff9fc9
+green=006ca5
+green(bold)=3bd6ff
+yellow=007086
+yellow(bold)=00ddf4
+blue=6751a6
+blue(bold)=d5b8ff
+magenta=913e88
+magenta(bold)=ffa7f6
+cyan=0061b1
+cyan(bold)=93c9ff
+white=c6c6c6
+white(bold)=ffffff
+[Names]
+name0=baskerville - FarSide
+count=1

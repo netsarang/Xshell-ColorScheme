@@ -1,0 +1,23 @@
+[dkeg - redphoenix]
+text=ffffff
+text(bold)=ffffff
+background=111111
+black=131313
+black(bold)=d1d1d1
+red=2d2d2d
+red(bold)=d2c3ad
+green=4c3a3d
+green(bold)=df9767
+yellow=4e4e4e
+yellow(bold)=e1e1e1
+blue=6f6f6f
+blue(bold)=ededed
+magenta=909090
+magenta(bold)=ed4b19
+cyan=aaa998
+cyan(bold)=f2361e
+white=b1b1b1
+white(bold)=fa390f
+[Names]
+name0=dkeg - redphoenix
+count=1

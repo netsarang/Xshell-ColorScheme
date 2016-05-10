@@ -1,0 +1,23 @@
+[baskerville - lost woods]
+text=919191
+text(bold)=919191
+background=000000
+black=303030
+black(bold)=5e5e5e
+red=a13a38
+red(bold)=ffa59a
+green=00715d
+green(bold)=24dfc4
+yellow=006f32
+yellow(bold)=73db95
+blue=a43261
+blue(bold)=ff9fc9
+magenta=913e88
+magenta(bold)=ffa7f6
+cyan=007086
+cyan(bold)=00ddf4
+white=c6c6c6
+white(bold)=ffffff
+[Names]
+name0=baskerville - lost woods
+count=1

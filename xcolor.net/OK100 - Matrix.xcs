@@ -1,0 +1,23 @@
+[OK100 - Matrix]
+text=00cc00
+text(bold)=00cc00
+background=000000
+black=000000
+black(bold)=000000
+red=55ff55
+red(bold)=55ff55
+green=00cc00
+green(bold)=55ff55
+yellow=00cc00
+yellow(bold)=55ff55
+blue=005500
+blue(bold)=005500
+magenta=55ff55
+magenta(bold)=55ff55
+cyan=00cc00
+cyan(bold)=55ff55
+white=00cc00
+white(bold)=00cc00
+[Names]
+name0=OK100 - Matrix
+count=1

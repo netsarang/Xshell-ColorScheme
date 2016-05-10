@@ -1,0 +1,23 @@
+[Muzieca mono]
+text=ffffff
+text(bold)=ffffff
+background=000000
+black=000000
+black(bold)=090909
+red=111111
+red(bold)=181818
+green=222222
+green(bold)=272727
+yellow=333333
+yellow(bold)=393939
+blue=444444
+blue(bold)=484848
+magenta=555555
+magenta(bold)=595959
+cyan=666666
+cyan(bold)=707070
+white=777777
+white(bold)=818181
+[Names]
+name0=Muzieca mono
+count=1

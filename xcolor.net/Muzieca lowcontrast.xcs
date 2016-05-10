@@ -1,0 +1,23 @@
+[Muzieca lowcontrast]
+text=93a1a1
+text(bold)=93a1a1
+background=3c3b37
+black=5f5f5f
+black(bold)=828282
+red=d96468
+red(bold)=d98f93
+green=a2d964
+green(bold)=b8d98f
+yellow=d9c964
+yellow(bold)=d9cf8f
+blue=64a2d9
+blue(bold)=8f99d9
+magenta=9a64d9
+magenta(bold)=b08fd9
+cyan=64d9d5
+cyan(bold)=8fd9d5
+white=989898
+white(bold)=c5c5c5
+[Names]
+name0=Muzieca lowcontrast
+count=1

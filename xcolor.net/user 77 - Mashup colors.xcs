@@ -1,0 +1,23 @@
+[user 77 - Mashup colors]
+text=b2a191
+text(bold)=b2a191
+background=171717
+black=202020
+black(bold)=404040
+red=bf3f34
+red(bold)=ff6c5f
+green=707d22
+green(bold)=b8ca4b
+yellow=bf7a29
+yellow(bold)=c7a551
+blue=627a92
+blue(bold)=95b9de
+magenta=75507b
+magenta(bold)=ad7fa8
+cyan=757978
+cyan(bold)=9fa590
+white=b2a191
+white(bold)=e8d0c3
+[Names]
+name0=user 77 - Mashup colors
+count=1

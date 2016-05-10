@@ -1,0 +1,23 @@
+[DOOMICIDE darkocean]
+text=ffffff
+text(bold)=ffffff
+background=000000
+black=000000
+black(bold)=38372c
+red=571dc2
+red(bold)=7c54b0
+green=14db49
+green(bold)=a2e655
+yellow=403d70
+yellow(bold)=9c6f59
+blue=385a70
+blue(bold)=323f5c
+magenta=384894
+magenta(bold)=5e6c99
+cyan=4f3a5e
+cyan(bold)=667d77
+white=999999
+white(bold)=ffffff
+[Names]
+name0=DOOMICIDE darkocean
+count=1

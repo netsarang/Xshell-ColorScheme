@@ -1,0 +1,23 @@
+[Muzieca pastel white]
+text=ffffff
+text(bold)=ffffff
+background=000000
+black=646e5b
+black(bold)=88927e
+red=db7464
+red(bold)=dba08f
+green=a7e160
+green(bold)=bde18b
+yellow=dbd560
+yellow(bold)=dbda8b
+blue=69b2d6
+blue(bold)=95a9d6
+magenta=a073d6
+magenta(bold)=b59fd6
+cyan=69e1d3
+cyan(bold)=95e1d2
+white=9ea894
+white(bold)=c9d0c2
+[Names]
+name0=Muzieca pastel white
+count=1

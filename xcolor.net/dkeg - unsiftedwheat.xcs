@@ -1,0 +1,23 @@
+[dkeg - unsiftedwheat]
+text=d3d3d3
+text(bold)=d3d3d3
+background=111111
+black=382c2f
+black(bold)=ac9377
+red=48393a
+red(bold)=baa17e
+green=65534d
+green(bold)=bca282
+yellow=79665a
+yellow(bold)=c1a67e
+blue=836e5e
+blue(bold)=cfb48e
+magenta=8e7766
+magenta(bold)=d1baa3
+cyan=917781
+cyan(bold)=dfc39b
+white=9a846d
+white(bold)=eed8c4
+[Names]
+name0=dkeg - unsiftedwheat
+count=1

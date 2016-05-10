@@ -1,0 +1,23 @@
+[dkeg - catchmeifyoucan]
+text=f9f9f9
+text(bold)=f9f9f9
+background=170f0d
+black=130f0c
+black(bold)=c69f77
+red=604c38
+red(bold)=cab9a8
+green=8d7f85
+green(bold)=d5c6b8
+yellow=907256
+yellow(bold)=dcd1c7
+blue=aa8d70
+blue(bold)=e0e0e2
+magenta=b9a38d
+magenta(bold)=e4dad2
+cyan=c4bfbf
+cyan(bold)=eae3dc
+white=c4ae99
+white(bold)=f6f2f0
+[Names]
+name0=dkeg - catchmeifyoucan
+count=1

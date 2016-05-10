@@ -1,0 +1,23 @@
+[dkeg - colorstar]
+text=d3d3d3
+text(bold)=d3d3d3
+background=000000
+black=03010f
+black(bold)=ab9e9e
+red=503b43
+red(bold)=b28930
+green=353b64
+green(bold)=bbada9
+yellow=8c2424
+yellow(bold)=c37305
+blue=6067ac
+blue(bold)=d0ae58
+magenta=624d19
+magenta(bold)=d7b559
+cyan=7c83c0
+cyan(bold)=f4e199
+white=9a600f
+white(bold)=f6f4df
+[Names]
+name0=dkeg - colorstar
+count=1

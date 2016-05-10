@@ -1,0 +1,23 @@
+[Baskerville - Eldorado dark]
+text=a2a2a2
+text(bold)=a2a2a2
+background=292929
+black=4e4e4e
+black(bold)=777777
+red=a9635d
+red(bold)=ffbbb2
+green=468459
+green(bold)=9ddeaf
+yellow=84763d
+yellow(bold)=e0ce91
+blue=5879af
+blue(bold)=b3d1ff
+magenta=9c6594
+magenta(bold)=fabdf0
+cyan=008592
+cyan(bold)=79e0ed
+white=cfcfcf
+white(bold)=ffffff
+[Names]
+name0=Baskerville - Eldorado dark
+count=1

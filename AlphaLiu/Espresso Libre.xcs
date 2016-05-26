@@ -1,0 +1,23 @@
+[Espresso Libre]
+black(bold)=000000
+red(bold)=cc0000
+green(bold)=1a921c
+yellow(bold)=f0e53a
+blue(bold)=0066ff
+magenta(bold)=c5656b
+cyan(bold)=06989a
+white(bold)=d3d7cf
+black=555753
+red=ef2929
+green=9aff87
+yellow=fffb5c
+blue=43a8ed
+magenta=ff818a
+cyan=34e2e2
+white=eeeeec
+text(bold)=b8a898
+text=b8a898
+background=2a211c
+[Names]
+count=1
+name0=Espresso Libre

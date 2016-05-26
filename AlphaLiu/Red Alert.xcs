@@ -1,0 +1,23 @@
+[Red Alert]
+black(bold)=000000
+red(bold)=d62e4e
+green(bold)=71be6b
+yellow(bold)=beb86b
+blue(bold)=489bee
+magenta(bold)=e979d7
+cyan(bold)=6bbeb8
+white(bold)=d6d6d6
+black=262626
+red=e02553
+green=aff08c
+yellow=dfddb7
+blue=65aaf1
+magenta=ddb7df
+cyan=b7dfdd
+white=ffffff
+text(bold)=ffffff
+text=ffffff
+background=762423
+[Names]
+count=1
+name0=Red Alert

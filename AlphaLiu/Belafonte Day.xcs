@@ -1,0 +1,23 @@
+[Belafonte Day]
+black(bold)=20111b
+red(bold)=be100e
+green(bold)=858162
+yellow(bold)=eaa549
+blue(bold)=426a79
+magenta(bold)=97522c
+cyan(bold)=989a9c
+white(bold)=968c83
+black=5e5252
+red=be100e
+green=858162
+yellow=eaa549
+blue=426a79
+magenta=97522c
+cyan=989a9c
+white=d5ccba
+text(bold)=45373c
+text=45373c
+background=d5ccba
+[Names]
+count=1
+name0=Belafonte Day

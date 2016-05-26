@@ -1,0 +1,23 @@
+[Solarized Dark Higher Contrast]
+black(bold)=002831
+red(bold)=d11c24
+green(bold)=6cbe6c
+yellow(bold)=a57706
+blue(bold)=2176c7
+magenta(bold)=c61c6f
+cyan(bold)=259286
+white(bold)=eae3cb
+black=006488
+red=f5163b
+green=51ef84
+yellow=b27e28
+blue=178ec8
+magenta=e24d8e
+cyan=00b39e
+white=fcf4dc
+text(bold)=9cc2c3
+text=9cc2c3
+background=001e27
+[Names]
+count=1
+name0=Solarized Dark Higher Contrast

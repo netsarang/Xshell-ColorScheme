@@ -1,0 +1,23 @@
+[Tomorrow Night Blue]
+black(bold)=000000
+red(bold)=ff9da4
+green(bold)=d1f1a9
+yellow(bold)=ffeead
+blue(bold)=bbdaff
+magenta(bold)=ebbbff
+cyan(bold)=99ffff
+white(bold)=ffffff
+black=000000
+red=ff9da4
+green=d1f1a9
+yellow=ffeead
+blue=bbdaff
+magenta=ebbbff
+cyan=99ffff
+white=ffffff
+text(bold)=ffffff
+text=ffffff
+background=002451
+[Names]
+count=1
+name0=Tomorrow Night Blue

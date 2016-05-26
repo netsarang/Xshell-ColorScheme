@@ -1,0 +1,23 @@
+[Man Page]
+black(bold)=000000
+red(bold)=cc0000
+green(bold)=00a600
+yellow(bold)=999900
+blue(bold)=0000b2
+magenta(bold)=b200b2
+cyan(bold)=00a6b2
+white(bold)=cccccc
+black=666666
+red=e50000
+green=00d900
+yellow=e5e500
+blue=0000ff
+magenta=e500e5
+cyan=00e5e5
+white=e5e5e5
+text(bold)=000000
+text=000000
+background=fef49c
+[Names]
+count=1
+name0=Man Page

@@ -1,0 +1,23 @@
+[3024 Day]
+black(bold)=090300
+red(bold)=db2d20
+green(bold)=01a252
+yellow(bold)=fded02
+blue(bold)=01a0e4
+magenta(bold)=a16a94
+cyan(bold)=b5e4f4
+white(bold)=a5a2a2
+black=5c5855
+red=e8bbd0
+green=3a3432
+yellow=4a4543
+blue=807d7c
+magenta=d6d5d4
+cyan=cdab53
+white=f7f7f7
+text(bold)=4a4543
+text=4a4543
+background=f7f7f7
+[Names]
+count=1
+name0=3024 Day

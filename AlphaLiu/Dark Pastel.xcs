@@ -1,0 +1,23 @@
+[Dark Pastel]
+black(bold)=000000
+red(bold)=ff5555
+green(bold)=55ff55
+yellow(bold)=ffff55
+blue(bold)=5555ff
+magenta(bold)=ff55ff
+cyan(bold)=55ffff
+white(bold)=bbbbbb
+black=555555
+red=ff5555
+green=55ff55
+yellow=ffff55
+blue=5555ff
+magenta=ff55ff
+cyan=55ffff
+white=ffffff
+text(bold)=ffffff
+text=ffffff
+background=000000
+[Names]
+count=1
+name0=Dark Pastel

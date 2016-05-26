@@ -1,0 +1,23 @@
+[Tomorrow Night Eighties]
+black(bold)=000000
+red(bold)=f2777a
+green(bold)=99cc99
+yellow(bold)=ffcc66
+blue(bold)=6699cc
+magenta(bold)=cc99cc
+cyan(bold)=66cccc
+white(bold)=ffffff
+black=000000
+red=f2777a
+green=99cc99
+yellow=ffcc66
+blue=6699cc
+magenta=cc99cc
+cyan=66cccc
+white=ffffff
+text(bold)=cccccc
+text=cccccc
+background=2d2d2d
+[Names]
+count=1
+name0=Tomorrow Night Eighties

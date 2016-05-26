@@ -1,0 +1,23 @@
+[Monokai Soda]
+black(bold)=1a1a1a
+red(bold)=f4005f
+green(bold)=98e024
+yellow(bold)=fa8419
+blue(bold)=9d65ff
+magenta(bold)=f4005f
+cyan(bold)=58d1eb
+white(bold)=c4c5b5
+black=625e4c
+red=f4005f
+green=98e024
+yellow=e0d561
+blue=9d65ff
+magenta=f4005f
+cyan=58d1eb
+white=f6f6ef
+text(bold)=c4c5b5
+text=c4c5b5
+background=1a1a1a
+[Names]
+count=1
+name0=Monokai Soda

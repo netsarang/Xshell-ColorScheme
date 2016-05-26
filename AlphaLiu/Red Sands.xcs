@@ -1,0 +1,23 @@
+[Red Sands]
+black(bold)=000000
+red(bold)=ff3f00
+green(bold)=00bb00
+yellow(bold)=e7b000
+blue(bold)=0072ff
+magenta(bold)=bb00bb
+cyan(bold)=00bbbb
+white(bold)=bbbbbb
+black=555555
+red=bb0000
+green=00bb00
+yellow=e7b000
+blue=0072ae
+magenta=ff55ff
+cyan=55ffff
+white=ffffff
+text(bold)=d7c9a7
+text=d7c9a7
+background=7a251e
+[Names]
+count=1
+name0=Red Sands

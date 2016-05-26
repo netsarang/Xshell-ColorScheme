@@ -1,0 +1,23 @@
+[Parasio Dark]
+black(bold)=2f1e2e
+red(bold)=ef6155
+green(bold)=48b685
+yellow(bold)=fec418
+blue(bold)=06b6ef
+magenta(bold)=815ba4
+cyan(bold)=5bc4bf
+white(bold)=a39e9b
+black=776e71
+red=ef6155
+green=48b685
+yellow=fec418
+blue=06b6ef
+magenta=815ba4
+cyan=5bc4bf
+white=e7e9db
+text(bold)=a39e9b
+text=a39e9b
+background=2f1e2e
+[Names]
+count=1
+name0=Parasio Dark

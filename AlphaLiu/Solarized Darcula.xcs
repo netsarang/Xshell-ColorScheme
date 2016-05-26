@@ -1,0 +1,23 @@
+[Solarized Darcula]
+black(bold)=25292a
+red(bold)=f24840
+green(bold)=629655
+yellow(bold)=b68800
+blue(bold)=2075c7
+magenta(bold)=797fd4
+cyan(bold)=15968d
+white(bold)=d2d8d9
+black=25292a
+red=f24840
+green=629655
+yellow=b68800
+blue=2075c7
+magenta=797fd4
+cyan=15968d
+white=d2d8d9
+text(bold)=d2d8d9
+text=d2d8d9
+background=3d3f41
+[Names]
+count=1
+name0=Solarized Darcula

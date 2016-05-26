@@ -1,0 +1,23 @@
+[Jackie Brown]
+black(bold)=2c1d16
+red(bold)=ef5734
+green(bold)=2baf2b
+yellow(bold)=bebf00
+blue(bold)=246eb2
+magenta(bold)=d05ec1
+cyan(bold)=00acee
+white(bold)=bfbfbf
+black=666666
+red=e50000
+green=86a93e
+yellow=e5e500
+blue=0000ff
+magenta=e500e5
+cyan=00e5e5
+white=e5e5e5
+text(bold)=ffcc2f
+text=ffcc2f
+background=2c1d16
+[Names]
+count=1
+name0=Jackie Brown

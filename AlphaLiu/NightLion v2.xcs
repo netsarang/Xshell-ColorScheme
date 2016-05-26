@@ -1,0 +1,23 @@
+[NightLion v2]
+black(bold)=4c4c4c
+red(bold)=bb0000
+green(bold)=04f623
+yellow(bold)=f3f167
+blue(bold)=64d0f0
+magenta(bold)=ce6fdb
+cyan(bold)=00dadf
+white(bold)=bbbbbb
+black=555555
+red=ff5555
+green=7df71d
+yellow=ffff55
+blue=62cbe8
+magenta=ff9bf5
+cyan=00ccd8
+white=ffffff
+text(bold)=bbbbbb
+text=bbbbbb
+background=171717
+[Names]
+count=1
+name0=NightLion v2

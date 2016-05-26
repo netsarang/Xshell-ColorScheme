@@ -1,0 +1,23 @@
+[Hipster Green]
+black(bold)=000000
+red(bold)=b6214a
+green(bold)=00a600
+yellow(bold)=bfbf00
+blue(bold)=246eb2
+magenta(bold)=b200b2
+cyan(bold)=00a6b2
+white(bold)=bfbfbf
+black=666666
+red=e50000
+green=86a93e
+yellow=e5e500
+blue=0000ff
+magenta=e500e5
+cyan=00e5e5
+white=e5e5e5
+text(bold)=84c138
+text=84c138
+background=100b05
+[Names]
+count=1
+name0=Hipster Green

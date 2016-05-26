@@ -1,0 +1,23 @@
+[Fabric Ivory]
+text=303030
+cyan(bold)=01586d
+text(bold)=202020
+magenta=e01438
+green=018007
+green(bold)=17a860
+background=fdf6e3
+cyan=46a0bd
+red(bold)=ce7a3c
+yellow=e4ad05
+magenta(bold)=e70745
+yellow(bold)=f9ab37
+red=cb4923
+white=cfd8d3
+blue(bold)=416fe7
+white(bold)=eceeee
+black=36342e
+blue=2250d9
+black(bold)=535755
+[Names]
+name0=Fabric Ivory
+count=1

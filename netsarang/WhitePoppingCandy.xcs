@@ -1,0 +1,23 @@
+[Popping Candy on White]
+text=000000
+cyan(bold)=1f5bfa
+text(bold)=0f0f0f
+magenta=ff3873
+green=008080
+green(bold)=008000
+background=ffffff
+cyan=6467e8
+red(bold)=ff3278
+yellow=fa8228
+magenta(bold)=ff1764
+yellow(bold)=ce9d1c
+red=ff023c
+white=f2f2f2
+blue(bold)=0080c0
+white(bold)=eceeee
+black=0a0a0a
+blue=30c0eb
+black(bold)=52514e
+[Names]
+name0=Popping Candy on White
+count=1

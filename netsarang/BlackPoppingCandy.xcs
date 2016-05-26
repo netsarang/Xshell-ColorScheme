@@ -1,0 +1,23 @@
+[Names]
+name0=Popping Candy on Black
+count=1
+[Popping Candy on Black]
+text=f0feff
+cyan(bold)=75fffc
+text(bold)=e6e6e6
+magenta=ff5b8c
+green=0ed25a
+green(bold)=2fc470
+background=151515
+cyan=3eeff9
+red(bold)=fc0492
+yellow=f7da37
+magenta(bold)=ff1764
+yellow(bold)=ebf51b
+red=ff0250
+white=f2f2f2
+blue(bold)=bb8e96
+white(bold)=eceeee
+black=000000
+blue=5969f4
+black(bold)=383735

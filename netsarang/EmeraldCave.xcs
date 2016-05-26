@@ -1,0 +1,23 @@
+[Emerald Cave]
+text=adc7dc
+cyan(bold)=50ebfc
+text(bold)=adc7dc
+magenta=3e648e
+green=30e2be
+green(bold)=29d699
+background=202020
+cyan=00a2c4
+red(bold)=50f1f1
+yellow=faf4c6
+magenta(bold)=6dbebe
+yellow(bold)=fff0b7
+red=10c9c9
+white=faf4c6
+blue(bold)=7fb2e5
+white(bold)=fff0b4
+black=36342e
+blue=7aa6c7
+black(bold)=535755
+[Names]
+name0=Emerald Cave
+count=1

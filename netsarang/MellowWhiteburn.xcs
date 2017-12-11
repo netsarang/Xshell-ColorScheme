@@ -1,0 +1,23 @@
+[Mellow White burn]
+text=323232
+cyan(bold)=abe0e4
+text(bold)=000000
+magenta=e487b4
+green=7ac2ab
+green(bold)=9bd2c0
+background=ffffff
+cyan=89dcde
+red(bold)=ff8e8e
+yellow=ffac51
+magenta(bold)=f37e96
+yellow(bold)=ffba6f
+red=ed7872
+white=ebebeb
+blue(bold)=79cdff
+white(bold)=ffffff
+black=000000
+blue=68d1ff
+black(bold)=555555
+[Names]
+name0=Mellow White burn
+count=1

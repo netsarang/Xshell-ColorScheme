@@ -1,0 +1,23 @@
+[Mellow White]
+text=323232
+cyan(bold)=5cd3bc
+text(bold)=0b0b0b
+magenta=d94e8f
+green=3d856d
+green(bold)=4fac8d
+background=fdfffc
+cyan=02bec4
+red(bold)=ff5555
+yellow=ff9a2b
+magenta(bold)=f2637e
+yellow(bold)=ffb96c
+red=e53d36
+white=ebebeb
+blue(bold)=2bafff
+white(bold)=f4f4f4
+black=000000
+blue=0092d0
+black(bold)=555555
+[Names]
+name0=Mellow White
+count=1

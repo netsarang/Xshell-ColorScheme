@@ -1,0 +1,23 @@
+[Mellow Black burn]
+text=fcf9ff
+cyan(bold)=a8e8db
+text(bold)=fdfdff
+magenta=e897bd
+green=85c7b1
+green(bold)=addacb
+background=090a0c
+cyan=6bfbfe
+red(bold)=ffa4a4
+yellow=ffa746
+magenta(bold)=f48a9f
+yellow(bold)=ffc482
+red=ef8883
+white=ebebeb
+blue(bold)=88d2ff
+white(bold)=ffffff
+black=000000
+blue=80d9ff
+black(bold)=555555
+[Names]
+name0=Mellow Black burn
+count=1

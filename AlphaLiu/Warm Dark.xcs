@@ -1,0 +1,24 @@
+[Warm Dark]
+text=839496
+cyan(bold)=00ffff
+text(bold)=808000
+magenta=c000c0
+green=859900
+green(bold)=586e75
+background=002b35
+cyan=00c0c0
+red(bold)=ff0000
+yellow=c0c000
+magenta(bold)=ff00ff
+yellow(bold)=ffff00
+red=c00000
+white=c0c0c0
+blue(bold)=839496
+white(bold)=ffffff
+black=000000
+blue=268bd2
+black(bold)=808080
+[Names]
+name0=Warm Dark
+count=1
+
